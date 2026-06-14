@@ -6,7 +6,7 @@ pillow
 tqdm>=4.48.2
 absl-py
 pandas
-torch==2.2.2
+torch==2.12.0
 torchvision==0.17.2
 pytorch-lightning
 opencv-python
